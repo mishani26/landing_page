@@ -1,0 +1,41 @@
+.slider {
+	width: 80%;
+	margin: 100px auto;
+	box-sizing: border-box;
+}
+
+.slick-slide {
+	margin: 0px 20px;
+}
+
+.slick-slide img {
+	width: 100%;
+}
+.fa-chevron-right{
+	right: -60px;
+}
+.fa-chevron-left{
+	left: -60px;
+}
+.fa-chevron-right,
+.fa-chevron-left {
+	color: green;
+	position: absolute;
+	top: 30%;
+}
+
+@media screen and (min-width: 900px) {
+	.EVD{
+		margin-top: 55px;
+	}
+}
+@media screen and (max-width: 899px) {
+	.EVD{
+		margin-top: 30px;
+	}
+}
+@media screen and (max-width: 600px) {
+	.EVD{
+		margin-top: 10px;
+	}
+}

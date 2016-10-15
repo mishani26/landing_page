@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap_landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-sass":"~1.0.0",
+    "grunt-spritesmith":"~6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://misha95@bitbucket.org/misha95/landing_bootstrap.git"
+  },
+  "homepage": "https://bitbucket.org/misha95/landing_bootstrap#readme",
+  "description": "hi"
+}

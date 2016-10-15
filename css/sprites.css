@@ -1,0 +1,125 @@
+.icon-EVD{
+	background-image:url(../images/spritesheet.png);
+	background-position:0px -189px;
+	width:251px;
+	height:90px;
+}
+.icon-FUCHS{
+	background-image:url(../images/spritesheet.png);
+	background-position:-170px 0px;
+	width:177px;
+	height:149px;
+}
+.icon-chat{
+	background-image:url(../images/spritesheet.png);
+	background-position:-439px -231px;
+	width:28px;
+	height:25px;
+}
+.icon-check{
+	background-image:url(../images/spritesheet.png);
+	background-position:0px -279px;
+	width:79px;
+	height:73px;
+}
+.icon-facebook{
+	background-image:url(../images/spritesheet.png);
+	background-position:-206px -279px;
+	width:62px;
+	height:62px;
+	display:block;
+}
+.icon-free-call{
+	background-image:url(../images/spritesheet.png);
+	background-position:-347px -231px;
+	width:39px;
+	height:39px;
+	display:block;
+}
+.icon-human-dark{
+	background-image:url(../images/spritesheet.png);
+	background-position:-170px -149px;
+	width:21px;
+	height:24px;
+}
+.icon-human-light{
+	background-image:url(../images/spritesheet.png);
+	background-position:-467px -231px;
+	width:23px;
+	height:24px;
+}
+.icon-left{
+	background-image:url(../images/spritesheet.png);
+	background-position:-298px -279px;
+	width:29px;
+	height:55px;
+}
+.icon-leica{
+	background-image:url(../images/spritesheet.png);
+	background-position:-347px 0px;
+	width:149px;
+	height:149px;
+}
+.icon-lightbulb{
+	background-image:url(../images/spritesheet.png);
+	background-position:-347px -149px;
+	width:82px;
+	height:82px;
+}
+.icon-ok{
+	background-image:url(../images/spritesheet.png);
+	background-position:-429px -149px;
+	width:63px;
+	height:64px;
+	display:block;
+}
+.icon-phone-dark{
+	background-image:url(../images/spritesheet.png);
+	background-position:-413px -231px;
+	width:26px;
+	height:28px;
+}
+.icon-phone-light{
+	background-image:url(../images/spritesheet.png);
+	background-position:-386px -231px;
+	width:27px;
+	height:28px;
+}
+.icon-plain{
+	background-image:url(../images/spritesheet.png);
+	background-position:-251px -189px;
+	width:76px;
+	height:77px;
+}
+.icon-right{
+	background-image:url(../images/spritesheet.png);
+	background-position:-268px -279px;
+	width:30px;
+	height:55px;
+}
+.icon-share{
+	background-image:url(../images/spritesheet.png);
+	background-position:0px -352px;
+	width:62px;
+	height:64px;
+}
+.icon-tweeter{
+	background-image:url(../images/spritesheet.png);
+	background-position:-79px -279px;
+	width:63px;
+	height:64px;
+	display:block;
+}
+.icon-vk{
+	background-image:url(../images/spritesheet.png);
+	background-position:-142px -279px;
+	width:64px;
+	height:63px;
+	display:block;
+}
+.icon-zenit{
+	background-image:url(../images/spritesheet.png);
+	background-position:0px 0px;
+	width:170px;
+	height:189px;
+}

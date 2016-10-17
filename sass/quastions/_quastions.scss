@@ -1,0 +1,43 @@
+.quastions{
+	background: url(../images/quastions_fone.png) no-repeat center;
+	background-size:cover;
+	color:white;
+	position: relative;
+	border-bottom:solid #375863 15px;
+}
+.specialist{
+	position: absolute;
+	bottom:0px;
+}
+.quastion_form{
+		padding-bottom: 10px;
+}
+.quastion_form>form>button{
+	background-color: #375863;
+}
+input[type=text]::-webkit-input-placeholder,textarea::-webkit-input-placeholder{
+	color:#234753;
+}
+input[type=text]::-moz-placeholder,textarea::-webkit-input-placeholder{
+	color:#234753;
+}
+input[type=text]:-moz-placeholder,textarea::-webkit-input-placeholder{
+	color:#234753;
+}
+input[type=text]:-ms-input-placeholder,textarea::-webkit-input-placeholder{
+	color:#234753;
+}
+textarea{
+	color:#234753;
+}
+.fa-comment-o,.form,.fa-user{
+	color:#234753;
+}
+@media screen and (max-width: 991px) {
+	.specialist{
+		display: none;
+	}
+	.quastions_header{
+		text-align:center;
+	}
+}

@@ -1,0 +1,17 @@
+.clients{
+	background: url(../images/clients-fone.png) no-repeat center;
+	background-size:cover;
+}
+.client_wrap{
+	background: #afb8b5;
+	padding:0px !important;
+	margin-top:10px;
+	position: relative;
+}
+.client_wrap>img{
+	position: relative;
+	top:-5px;
+}
+.clients-head{
+	color:white;
+}

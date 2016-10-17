@@ -1,6 +1,21 @@
 @import "reset/_reset";
 @import "slider/_slider";
 @import "adres/_adres";
+@import "header/_header";
+@import "action/_action";
+@import "quastions/_quastions";
+@import "reasons/_reasons";
+@import "partners/_partners";
+@import "clients/_clients";
+@import "doesnt_found/_doesnt_found";
+@import "footer/_footer";
+@import "back-top/_back-top";
 a{
 text-decoration: none;
+}
+.container{
+	max-width:960px;
+}
+input[type="text"], textarea{
+opacity:0.6;
 }

@@ -264,6 +264,14 @@ textarea {
   color: white;
 }
 
+.clients_link {
+  color: #181a40;
+}
+
+.clients_main_link {
+  color: #234753;
+}
+
 .doesnt_found {
   background: url(../images/doesnt_found.png) no-repeat center;
   background-size: cover;

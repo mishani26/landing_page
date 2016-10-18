@@ -5,7 +5,7 @@
 }
 
 .slick-slide {
-	margin: 0px 20px;
+	margin: 0px 5px;
 }
 
 .slick-slide img {
@@ -19,7 +19,7 @@
 }
 .fa-chevron-right,
 .fa-chevron-left {
-	color: green;
+	color: #2d7200;
 	position: absolute;
 	top: 30%;
 }
@@ -38,4 +38,14 @@
 	.EVD{
 		margin-top: 10px;
 	}
+	.fa-chevron-right,
+.fa-chevron-left {
+	top: 15%;
+}
+}
+@media screen and (max-width: 450px) {
+	.fa-chevron-right,
+.fa-chevron-left {
+	top: 0%;
+}
 }

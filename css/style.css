@@ -53,6 +53,7 @@ blockquote, q {
   width: 80%;
   margin: 100px auto;
   box-sizing: border-box;
+  line-height: 200px;
 }
 
 .slick-slide {
@@ -78,21 +79,11 @@ blockquote, q {
   top: 30%;
 }
 
-@media screen and (min-width: 900px) {
-  .EVD {
-    margin-top: 55px;
-  }
+.EVD {
+  margin-top: 17%;
 }
-@media screen and (max-width: 899px) {
-  .EVD {
-    margin-top: 30px;
-  }
-}
-@media screen and (max-width: 600px) {
-  .EVD {
-    margin-top: 10px;
-  }
 
+@media screen and (max-width: 600px) {
   .fa-chevron-right,
   .fa-chevron-left {
     top: 15%;

@@ -2,6 +2,8 @@
 	width: 80%;
 	margin: 100px auto;
 	box-sizing: border-box;
+	line-height: 200px;
+
 }
 
 .slick-slide {
@@ -23,29 +25,19 @@
 	position: absolute;
 	top: 30%;
 }
+.EVD{
+	margin-top:17%;
 
-@media screen and (min-width: 900px) {
-	.EVD{
-		margin-top: 55px;
-	}
-}
-@media screen and (max-width: 899px) {
-	.EVD{
-		margin-top: 30px;
-	}
 }
 @media screen and (max-width: 600px) {
-	.EVD{
-		margin-top: 10px;
-	}
 	.fa-chevron-right,
-.fa-chevron-left {
-	top: 15%;
-}
+	.fa-chevron-left {
+		top: 15%;
+	}
 }
 @media screen and (max-width: 450px) {
 	.fa-chevron-right,
-.fa-chevron-left {
-	top: 0%;
-}
+	.fa-chevron-left {
+		top: 0%;
+	}
 }
